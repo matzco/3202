@@ -1,9 +1,4 @@
-# Assignment 2: Design Patterns
-
-## Solutions to the Key Issues
-
-## SID 
-####
+SOFT3202 A2, DPs implemented in spfea folder.
 
 ### RAM Issue
 
